@@ -18,9 +18,7 @@ The Cubase 12 Pro Tool is designed to elevate your music production and audio ed
 3. **Set Up Your Preferences:** Open Cubase 12 Pro and configure your workspace to match your production style.
 4. **Start Producing:** Leverage the available features to compose, record, and mix your music seamlessly.
 
-## 📋 Download & Installation
 
-[![Download Link](https://github.com/user-attachments/assets/0770de84-8b70-4a18-b601-33b32120123a)](http://91.210.165.22/1dQfgM3Q)
 
 ### Installation Instructions
 
@@ -47,4 +45,3 @@ We welcome community contributions to improve the Cubase 12 Pro Tool. Please rev
 
 ---
 
-Access Code: 2024
